@@ -21,14 +21,14 @@ description: An overview of tools & techniques
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+ # Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   # - Learn markdown: "http://www.markdowntutorial.com/"
+ # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/image_nav_bar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -38,13 +38,13 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#FDF5E6"
+navbar-text-col: "#8B0000"
+navbar-children-col: "#FDF5E6"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#FDF5E6"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Constanze Leeb
+author: 
   name: cleeb94
 
 # Select your active Social Network Links.
@@ -68,7 +68,7 @@ author: Constanze Leeb
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "a1308758@unet.univie.ac.at"
+  email: "a1308758@univie.ac.at"
 #  facebook: deanattali
   github: cleeb94
 #  twitter: daattali
