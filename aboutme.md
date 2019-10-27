@@ -3,8 +3,22 @@ layout: page
 title: About me
 ---
 
-My name is Constanze Leeb and I am a student at the Universtiy of Vienna studying:
+Let me introduce myself...
+
+* name: Constanze Leeb
+* ages: 24
+* occupation: student at the University of Vienna
+* languages: German, English, Italian
+
+
+| Physics | Sociology | Cognitive Science|
+| ----------|-----------|----------|
+| BSc finished | BA finished |  |
+
+| MSc in progress | | MSc in progress |
+| focus on sub-atomic physics | focus on STS studies | |
+
+
+
  
- - Physics Master (focus on sub-atomic physics)
- - Cognitive Science Master 
 
