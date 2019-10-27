@@ -21,6 +21,7 @@ description: An overview of tools & techniques
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Additional information: "references"
  # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"

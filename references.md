@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Useful references
+title: Useful information
 ---
 
 Here are some useful references to the topics of the blogs:
