@@ -58,7 +58,6 @@ with
 ```
 A
 ```
-
 14. Saving the edited file *practice3.txt*
 
 15. Creating a subfolder *practice3* in the folder *lesson07*
