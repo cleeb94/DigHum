@@ -30,7 +30,7 @@ or shorter (instructors solution):
 ```
 text\?doc=Perseus[^"]+
 ```
-8. Copying all of them into a new text-file and save it as *practice3.txt*
+8. Copying all of the found expressions/links into a new text-file and save it as *practice3.txt*
 
 9. Clicking onto the first issue of the *Richmond Dispatch* on the website
 
@@ -50,7 +50,14 @@ with
 ```
 www.perseus.tufts.edu/hopper/dltext?
 ```
-and replace *a* with *A*
+and replace 
+```
+a
+```
+with
+```
+A
+```
 
 14. Saving the edited file *practice3.txt*
 
@@ -58,7 +65,7 @@ and replace *a* with *A*
 
 16. Opening the terminal and checking that one is in the folder *lesson07* which contains the file *practice3.txt*
 
-17. Scraping the articles from the file *practice3.txt* into the folder *practice3* without repetitions through the cmd-terminal:
+17. Scraping the articles from the file *practice3.txt* into the folder *practice3* without repetitions (-nc) through the cmd-terminal:
 ```
 wget practice3.txt -P ./practice3/ -nc
 ```
