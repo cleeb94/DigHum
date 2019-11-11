@@ -40,9 +40,7 @@ text\?doc=Perseus[^"]+
 
 12. Comparing the link that appears while hovering with the links extracted and saved in the file *practice3.txt*
 
-13. Using Regular Expressions to edit the url-sources in the file *practice3.txt* accordingly to point 12:
-
-Replace 
+13. Using Regular Expressions to edit the url-sources in the file *practice3.txt* accordingly to point 12. Replacing
 ```
 text\?
 ```
