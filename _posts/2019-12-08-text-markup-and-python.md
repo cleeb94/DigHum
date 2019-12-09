@@ -7,7 +7,8 @@ image: /img/dispatch.jpg
 
 The Python script just creating clean copies of the text from each issue is:
 
-```import re
+```
+import re
 import os
 
 source_location = "./practice3/"   # the folder in which the "dispatch" is
@@ -42,7 +43,8 @@ for f in lof: # looping through all the files
 
 The Python script for the clean copies of items is:
 
-```import re
+```
+import re
 import os
 
 source_location = "./practice3/"   # the folder in which the "dispatch" is
