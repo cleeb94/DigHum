@@ -7,7 +7,7 @@ image: /img/dispatch.jpg
 
 The Python script just creating clean copies of the text from each issue is:
 
-"""import re
+```import re
 import os
 
 source_location = "./practice3/"   # the folder in which the "dispatch" is
@@ -38,11 +38,11 @@ for f in lof: # looping through all the files
         ## saving files
         with open(target_location+new_file, "w", encoding ="utf8") as f2: #open in target folder
             f2.write(clean) #write in one file all the information
-"""
+```
 
 The Python script for the clean copies of items is:
 
-"""import re
+```import re
 import os
 
 source_location = "./practice3/"   # the folder in which the "dispatch" is
@@ -113,4 +113,4 @@ for f in lof: # looping through all the files
         new_issue ="".join(list_items) #combines the parts
         with open(target_location+new_file, "w", encoding ="utf8") as f2: #open in target folder
             f2.write(new_issue) #write in one file all the information
-"""
+```
