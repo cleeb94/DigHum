@@ -7,8 +7,7 @@ image: /img/dispatch.jpg
 
 The Python script just creating clean copies of the text from each issue is:
 
-"""
-import re
+"""import re
 import os
 
 source_location = "./practice3/"   # the folder in which the "dispatch" is
@@ -16,9 +15,8 @@ target_location = "./Clean_copies_issues/" # the folder in which the new files w
 
 lof=os.listdir(source_location) # getting all files from a folder
 
-## looping through all the files
+for f in lof: # looping through all the files
 
-for f in lof:
     new_file=f + "_modified.xml" # need to add the extension to work with it
     with open(source_location + f, "r", encoding="utf8") as f1:
         text0 = f1.read() # reads the file in
@@ -44,8 +42,7 @@ for f in lof:
 
 The Python script for the clean copies of items is:
 
-"""
-import re
+"""import re
 import os
 
 source_location = "./practice3/"   # the folder in which the "dispatch" is
@@ -53,9 +50,10 @@ target_location = "./Clean_copies_articles/" # the folder in which the new files
 
 lof=os.listdir(source_location) # getting all files from a folder
 
-## looping through all the files
 
-for f in lof:
+
+for f in lof: # looping through all the files
+
     new_file=f + "_modified.xml" # need to add the extension to work with it
     list_items= [] # to append list of items at the end
     with open(source_location + f, "r", encoding="utf8") as f1:
