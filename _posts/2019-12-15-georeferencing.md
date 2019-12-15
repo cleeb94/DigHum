@@ -11,8 +11,7 @@ The first map being georeferenced:
 
 The labeled and referenced cities are:
 
-'''
-city,state,lon,lat,lon1,lat1
+'''city,state,lon,lat,lon1,lat1
 Columbia,South Carolina,-9017496.530,4031487.396,-9017496.530,4031487.396
 New York City,New York,-8239035.496,4978433.821,-8239035.496,4978433.821
 Philadelphia,Pennsylvania,-8361114.240,4858027.388,-8361114.240,4858027.388
