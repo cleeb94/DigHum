@@ -5,7 +5,7 @@ subtitle: Two historical maps of the U.S.
 image: /img/georef.png
 ---
 
-The first map being georeferenced:
+The first map being georeferenced (using the grid of the map):
 
 ![Georeferencing of u.s. map 1](\cleeb94.github.io\img\map_us1_new.png "U.S. map 1")
 
@@ -35,7 +35,7 @@ Georgetown,South Carolina,-8814353.159,3948164.885,-8814353.159,3948164.885
 Knoxville,Tennessee,-9329382.637,4302401.870,-9329382.637,4302401.870
 ```
 
-The second map being georeferenced:
+The second map being georeferenced (using the same features of image and map):
 
 ![Georeferencing of u.s. map 2](\cleeb94.github.io\img\map_us2.png "U.S. map 2")
 
