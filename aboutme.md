@@ -6,7 +6,6 @@ title: About me
 Let me introduce myself...
 
 * Constanze Leeb
-* 24 years old
 * student at the University of Vienna
 * German, English, Italian
 
